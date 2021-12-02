@@ -1,3 +1,5 @@
-# html_1.Odev
+# html_2.Odev
 
-h1 ve p etiketleri kullanılarak yapılmış küçük bir uygulama
+Ödev1 e liste ve resim öğeleri eklendi linkler oluşturuldu
+
+
